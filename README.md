@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
 **Yametez/Yametez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
