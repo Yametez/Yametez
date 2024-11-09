@@ -13,7 +13,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=Yametez&style=flat-square&color=blue" alt="account counter"/>
 </div>
-----------
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -34,7 +34,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
 **Yametez/Yametez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
